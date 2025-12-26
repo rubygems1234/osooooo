@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400" height="200">
+
+  <text x="20" y="40" font-size="20">
+    Clicked SVG PoC
+  </text>
+
+  <!-- هذا هو الجزء الحاسم -->
+  <!-- تحميل مورد خارجي -->
+  <image href="https://xzhqqtmprykpinkwirdsm42dxw5pb9cax.oast.fun"
+         x="0" y="60"
+         width="1" height="1" />
+</svg>
